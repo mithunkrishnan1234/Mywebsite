@@ -1,0 +1,76 @@
+.gradient-background {
+    background: linear-gradient(300deg,#99A98F, #C1D0B5, #FFF8DE);
+    background-size: 250% 250%;
+    animation: gradient-animation 10s ease infinite;
+  }
+
+  .top-container{
+    padding-top: 250px;
+    padding-bottom: 250px;
+    font-family: 'Pacifico', cursive;
+  }
+.salute-container{
+    font-family: 'Poppins', sans-serif;
+}
+.profile-img {
+    height: 200px;
+    border-radius: 50%;
+    padding-bottom: 20px;
+  }
+.skill-container{
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+    font-family: 'Poppins', sans-serif;
+}
+.heading{
+   color: #99A98F;
+   font-weight: bolder;
+}
+
+.code{
+    padding: 30px;
+    height: 250px;
+    border-radius: 50%;
+    position: relative;
+}
+.lang{
+    padding: 30px;
+    height: 250px;
+    position: relative;
+}
+.tool{
+    padding: 30px;
+    height: 250px;
+    
+}
+hr{
+    border:dotted  #99A98F 6px;
+    width:4%;
+    border-bottom: none;
+    margin: 100px auto;
+}
+.contact-container{
+    text-align: center;
+    position: relative;
+    padding-top: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.touch{
+    color: #99A98F; 
+    font-weight: bolder;
+    padding-bottom: 30px;
+}
+.bod{
+    color: #99A98F; 
+    padding-bottom: 30px;
+}
+.btn{
+    background-color: #99A98F;
+}
+.last-container{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-family: 'Poppins', sans-serif;
+}
